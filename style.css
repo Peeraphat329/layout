@@ -1,0 +1,233 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    background-color: rgb(204, 201, 201);
+    padding: 10px 20px 10px 20px;
+}
+
+.logo {
+    background-color: rgb(253, 150, 201);
+    margin-bottom: 5px;
+    padding-left: 5px;
+}
+
+.nav {
+    background-color: rgb(113, 176, 228);
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(122, 223, 118);
+    height: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebar {
+    background-color: rgb(212, 233, 135);
+    padding: 20px 50px 20px 50px;
+    width: min-content;
+    height: 250px;
+    align-items: center;
+    display: flex;
+    margin-right: 10px;
+}
+
+.body {
+    background-color: rgb(236, 109, 109);
+    padding: 20px 50px 20px 50px;
+    width: 900px;
+    height: 250px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.flex {
+    display: flex;
+    height: 40vh;
+    gap: 2rem;
+}
+
+.flex>div {
+    background-color: antiquewhite;
+}
+
+.body-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 80rem;
+}
+
+.sidebar-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 20%;
+}
+
+.footer {
+    background-color: rgb(216, 61, 236);
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+/* layout-2 */
+/* .main-2 {
+    background-color: rgb(204, 201, 201);
+    padding: 10px 20px 10px 20px;
+} */
+
+.flex-2 {
+    display: flex;
+}
+
+.logo2 {
+    background-color: rgb(48, 247, 180);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    flex: 1;
+}
+
+.nav2 {
+    background-color: rgb(48, 247, 180);
+    margin-bottom: 5px;
+    padding-right: 100px;
+}
+
+.header2 {
+    background-color: rgb(179, 228, 47);
+    height: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.intro {
+    background-color: rgb(126, 22, 22);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.flexnaja {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.box1 {
+    background-color: rgb(243, 187, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 45rem;
+    height: 700px;
+    margin-right: 20px;
+}
+
+.box2 {
+    background-color: rgb(90, 7, 58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 45rem;
+    height: 700px;
+    margin-right: 20px;
+}
+
+.box3 {
+    background-color: rgb(107, 50, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 45rem;
+    height: 700px;
+}
+
+.footer2 {
+    background-color: rgb(74, 187, 52);
+    text-align: center;
+}
+
+/* layout3 */
+.logo3 {
+    background-color: rgb(48, 247, 180);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    flex: 1;
+}
+
+.nav3 {
+    background-color: rgb(48, 247, 180);
+    margin-bottom: 5px;
+    padding-right: 100px;
+}
+
+.warp {
+    display: flex;
+    column-gap: 2rem;
+    row-gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.warp>div {
+    flex: 21%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: rgb(170, 168, 168);
+}
+
+.bock{
+    display: flex;  
+    gap: 2rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box4 {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: rgb(141, 141, 141);
+}
+
+.box5 {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: rgb(141, 141, 141);
+}
+
+.box6 {
+    flex: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: rgb(141, 141, 141);
+}
+.footer {
+    background: rgb(189, 56, 56);
+    padding: 20px;
+}
+/* layout4 */
+
