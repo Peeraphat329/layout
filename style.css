@@ -65,7 +65,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-basis: 80rem;
+    flex-basis: 100rem;
 }
 
 .sidebar-2 {
