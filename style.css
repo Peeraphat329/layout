@@ -30,7 +30,7 @@ body {
     justify-content: center;
 }
 
-.sidebar {
+/* .sidebar {
     background-color: rgb(212, 233, 135);
     padding: 20px 50px 20px 50px;
     width: min-content;
@@ -38,9 +38,9 @@ body {
     align-items: center;
     display: flex;
     margin-right: 10px;
-}
+} */
 
-.body {
+/* .body {
     background-color: rgb(236, 109, 109);
     padding: 20px 50px 20px 50px;
     width: 800px;
@@ -49,7 +49,7 @@ body {
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
-}
+} */
 
 .flex {
     display: flex;
